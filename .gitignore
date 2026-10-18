@@ -5,6 +5,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 
-# datos del profe: no subir (pueden ser privados)
 data/*
 !data/.gitkeep
