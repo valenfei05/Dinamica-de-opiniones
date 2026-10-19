@@ -1,6 +1,4 @@
-"""
-Métricas de error, comparación de predicciones y salida de resultados.
-"""
+"""Métricas de error, comparación de predicciones y salida de resultados."""
 
 import csv
 import math
@@ -14,27 +12,23 @@ from src.simulacion import simular_degroot
 
 
 def error_absoluto(T_real, T_pred) -> float:
-    """|T_real - T_pred|. NaN si falta alguno de los dos."""
-    if T_real is None or T_pred is None or math.isnan(T_pred):
-        return float("nan")
-    return abs(T_real - T_pred)
+    """Error absoluto; NaN si faltan datos."""
+    error = float("nan")
+    if T_real is not None and T_pred is not None and not math.isnan(T_pred):
+        error = abs(T_real - T_pred)
+    return error
 
 
 def error_relativo(T_real, T_pred) -> float:
-    """|T_real - T_pred| / T_real. NaN si falta alguno o T_real = 0."""
-    if T_real is None or T_real == 0:
-        return float("nan")
-    return error_absoluto(T_real, T_pred) / T_real
+    """Error relativo; NaN si T_real es cero o falta."""
+    error = float("nan")
+    if T_real is not None and T_real != 0:
+        error = error_absoluto(T_real, T_pred) / T_real
+    return error
 
 
 def comparar_predicciones(nombre: str, A: np.ndarray, x0: np.ndarray, p: dict) -> dict:
-    """Mide T_real y lo compara con la predicción simple y la corregida.
-
-    Entradas : nombre del caso, A, x0, parámetros p (tau, max_iter).
-    Salida   : dict (una fila de la tabla) con rho, T_real, T_simple, T_corr,
-               errores relativos, rho_fit (mínimos cuadrados), simetrica y estructura.
-    Si la estructura no es de consenso no se simula (no tiene sentido predecir T).
-    """
+    """Mide T_real y lo compara con la predicción simple y la corregida."""
     estructura = verificar_estructura(A)
     fila = {"caso": nombre, "simetrica": es_simetrica(A),
             "estructura": estructura["clasificacion"]}
@@ -42,16 +36,15 @@ def comparar_predicciones(nombre: str, A: np.ndarray, x0: np.ndarray, p: dict) -
         fila.update(rho=float("nan"), T_real=None, T_simple=float("nan"),
                     T_corr=float("nan"), err_simple=float("nan"),
                     err_corr=float("nan"), rho_fit=float("nan"))
-        return fila
-
-    esp = calcular_espectro(A)
-    _, D, T_real = simular_degroot(A, x0, p["tau"], p["max_iter"])
-    T_simple = predecir_T_simple(esp.rho, D[0], p["tau"])
-    T_corr = predecir_T_corregida(esp, x0, p["tau"])
-    _, rho_fit = ajustar_pendiente(D)
-    fila.update(rho=esp.rho, T_real=T_real, T_simple=T_simple, T_corr=T_corr,
-                err_simple=error_relativo(T_real, T_simple),
-                err_corr=error_relativo(T_real, T_corr), rho_fit=rho_fit)
+    else:
+        esp = calcular_espectro(A)
+        _, D, T_real = simular_degroot(A, x0, p["tau"], p["max_iter"])
+        T_simple = predecir_T_simple(esp.rho, D[0], p["tau"])
+        T_corr = predecir_T_corregida(esp, x0, p["tau"])
+        _, rho_fit = ajustar_pendiente(D)
+        fila.update(rho=esp.rho, T_real=T_real, T_simple=T_simple, T_corr=T_corr,
+                    err_simple=error_relativo(T_real, T_simple),
+                    err_corr=error_relativo(T_real, T_corr), rho_fit=rho_fit)
     return fila
 
 
@@ -82,10 +75,7 @@ def guardar_tabla_csv(filas: list, ruta: str) -> None:
 
 def graficar_dispersion(A: np.ndarray, x0: np.ndarray, p: dict,
                         titulo: str = "", ruta_salida: str = None) -> None:
-    """Gráfica de log D(t) con la recta de mínimos cuadrados (requiere matplotlib).
-
-    Si se da ruta_salida guarda la figura (resultados/graficas/); si no, la muestra.
-    """
+    """Gráfica de log D(t) con la recta de mínimos cuadrados (requiere matplotlib)."""
     import matplotlib
     if ruta_salida:
         matplotlib.use("Agg")
