@@ -1,12 +1,4 @@
-"""
-Experimento 1 (Persona 1): ¿qué tan bien predice el espectro el tiempo de consenso?
-
-Misma red y mismas opiniones; se comparan las FÓRMULAS de predicción (simple vs
-corregida) y se estudia cómo cambia el error al modificar la tolerancia tau.
-Redes simétricas: es el mejor caso para el predictor espectral.
-
-Ejecutar desde la raíz:  python experimentos/exp1_prediccion.py
-"""
+"""Experimento 1 (Persona 1): ¿qué tan bien predice el espectro el tiempo de consenso?"""
 import sys
 from pathlib import Path
 
@@ -36,5 +28,4 @@ def main() -> list:
     return filas
 
 
-if __name__ == "__main__":
-    main()
+main()

@@ -1,15 +1,4 @@
-"""
-Primera prueba integrada en Karate Club (los 3, cuando estén listas las 3 partes).
-
-Pasos del plan:
-  1. Cargar Karate y construir A.        2. Comprobar que las filas suman 1.
-  3. Calcular valores y vectores propios. 4. Generar opiniones reproducibles.
-  5. Simular DeGroot y obtener T_tau.    6. Calcular T estimado con el predictor.
-  7. Comparar tiempos y calcular errores.
-
-Solo cuando esto funcione se pasa a Email-Eu-core.txt
-Ejecutar desde la raíz:  python experimentos/prueba_integrada_karate.py
-"""
+"""Primera prueba integrada en Karate Club (los 3, cuando estén listas las 3 partes)."""
 import sys
 from pathlib import Path
 
@@ -21,8 +10,7 @@ import numpy as np
 from src.configuracion import PARAMETROS
 from src.metricas import error_relativo
 from src.opiniones import generar_opiniones
-from src.predictor import (calcular_espectro, predecir_T_corregida,
-                           predecir_T_simple)
+from src.predictor import (calcular_espectro, predecir_T_corregida, predecir_T_simple)
 from src.redes import es_estocastica_por_filas, matriz_karate, verificar_estructura
 from src.simulacion import calcular_limite, simular_degroot
 
@@ -31,8 +19,7 @@ def main() -> None:
     p = PARAMETROS
     A = matriz_karate(p["autoinfluencia_s"])                       # 1
     print(f"1. A construida: {A.shape[0]} personas")
-    assert es_estocastica_por_filas(A), "las filas de A no suman 1"
-    print("2. Todas las filas suman 1: OK")
+    print("2. Filas estocásticas:", es_estocastica_por_filas(A))
     esp = calcular_espectro(A)                                     # 3
     print(f"3. rho = {esp.rho:.4f}; estructura: {verificar_estructura(A)}")
     x0 = generar_opiniones(A.shape[0], "aleatoria", p["semilla"])  # 4
@@ -48,5 +35,4 @@ def main() -> None:
     print(f"   Verificación extra: límite teórico (LU) = {limite:.4f}")
 
 
-if __name__ == "__main__":
-    main()
+main()

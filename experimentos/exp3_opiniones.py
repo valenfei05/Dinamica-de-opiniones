@@ -1,12 +1,4 @@
-"""
-Experimento 3 (Persona 3): ¿cuánto importan las opiniones iniciales?
-
-Misma red y mismas fórmulas; cambian las OPINIONES INICIALES: aleatoria,
-polarizada, cercana al consenso, sin modo lento y (si existe el archivo) las del
-CSV real del profesor. Se repite en dos redes: dos comunidades y karate.
-
-Ejecutar desde la raíz:  python experimentos/exp3_opiniones.py
-"""
+"""Experimento 3 (Persona 3): ¿cuánto importan las opiniones iniciales?"""
 import sys
 from pathlib import Path
 
@@ -51,5 +43,4 @@ def main() -> list:
     return filas
 
 
-if __name__ == "__main__":
-    main()
+main()

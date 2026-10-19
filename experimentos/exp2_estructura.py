@@ -1,12 +1,4 @@
-"""
-Experimento 2 (Persona 2): ¿qué propiedades de la red explican tiempos y errores?
-
-Cambios CONTROLADOS, uno a la vez (mismas opiniones iniciales en todos los casos):
-  (a) simetría de A,  (b) peso del enlace entre comunidades,
-  (c) autoinfluencia s,  (d) red real (karate y, si el archivo está, Email-Eu-core).
-
-Ejecutar desde la raíz:  python experimentos/exp2_estructura.py
-"""
+"""Experimento 2 (Persona 2): ¿qué propiedades de la red explican tiempos y errores?"""
 import sys
 from pathlib import Path
 
@@ -64,5 +56,4 @@ def main() -> list:
     return filas
 
 
-if __name__ == "__main__":
-    main()
+main()
