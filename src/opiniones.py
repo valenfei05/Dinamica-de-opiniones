@@ -1,9 +1,7 @@
 """Opiniones iniciales x(0)."""
 
 import csv
-
 import numpy as np
-
 from src.predictor import calcular_espectro, componente_modo_lento
 
 
