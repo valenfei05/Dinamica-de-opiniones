@@ -1,0 +1,15 @@
+configuracion,escenario,consensos,promedio_iteraciones,segundo_valor_modulo,cambio_porcentual_vs_referencia
+Puente bidireccional,Original,20,246.4500,0.9832,0.0000
+Puente bidireccional,Centrales x3,20,54.3000,0.9240,0.0000
+Sin puente,Original,0,,1.0000,
+Sin puente,Centrales x3,0,,1.0000,
+Puente 9 a 10,Original,20,467.3000,0.9909,89.6125
+Puente 9 a 10,Centrales x3,20,85.3500,0.9500,57.1823
+Retorno central 10 a 9,Original,20,246.4500,0.9832,0.0000
+Retorno central 10 a 9,Centrales x3,20,54.3000,0.9240,0.0000
+Retorno no puente 11 a 1,Original,20,231.3000,0.9816,-6.1473
+Retorno no puente 11 a 1,Centrales x3,20,76.9500,0.9447,41.7127
+Avance central 9 a 11,Original,20,236.3500,0.9818,-4.0982
+Avance central 9 a 11,Centrales x3,20,62.6500,0.9333,15.3775
+Avance no puente 1 a 11,Original,20,232.5500,0.9818,-5.6401
+Avance no puente 1 a 11,Centrales x3,20,76.2000,0.9436,40.3315

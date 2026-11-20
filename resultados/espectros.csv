@@ -1,0 +1,13 @@
+red,escenario,factor_influencia,segundo_valor_modulo,nodos_seleccionados
+Karate Club,Original,1,0.89614204988793,"33, 0, 2"
+Karate Club,Centrales x2,2,0.8545968501456002,"33, 0, 2"
+Karate Club,Centrales x3,3,0.8352906947863704,"33, 0, 2"
+Karate Club,Perifericos x3,3,0.9366000692577608,"16, 11, 24"
+Camino,Original,1,0.9912182739534535,"9, 10, 8"
+Camino,Centrales x2,2,0.9885813644635251,"9, 10, 8"
+Camino,Centrales x3,3,0.9878635605403011,"9, 10, 8"
+Camino,Perifericos x3,3,0.9964455515717012,"0, 19, 1"
+Dos comunidades,Original,1,0.9832149489822861,"9, 10, 0"
+Dos comunidades,Centrales x2,2,0.9540941879009459,"9, 10, 0"
+Dos comunidades,Centrales x3,3,0.9239749637913828,"9, 10, 0"
+Dos comunidades,Perifericos x3,3,0.9879889912405204,"1, 2, 3"

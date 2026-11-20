@@ -1,0 +1,481 @@
+red,semilla,tolerancia,escenario,iteraciones
+Karate Club,0,0.001,Original,46
+Karate Club,0,0.001,Centrales x2,22
+Karate Club,0,0.001,Centrales x3,24
+Karate Club,0,0.001,Perifericos x3,83
+Karate Club,0,0.01,Original,26
+Karate Club,0,0.01,Centrales x2,13
+Karate Club,0,0.01,Centrales x3,11
+Karate Club,0,0.01,Perifericos x3,47
+Karate Club,1,0.001,Original,43
+Karate Club,1,0.001,Centrales x2,33
+Karate Club,1,0.001,Centrales x3,30
+Karate Club,1,0.001,Perifericos x3,87
+Karate Club,1,0.01,Original,22
+Karate Club,1,0.01,Centrales x2,18
+Karate Club,1,0.01,Centrales x3,17
+Karate Club,1,0.01,Perifericos x3,52
+Karate Club,2,0.001,Original,51
+Karate Club,2,0.001,Centrales x2,38
+Karate Club,2,0.001,Centrales x3,34
+Karate Club,2,0.001,Perifericos x3,49
+Karate Club,2,0.01,Original,30
+Karate Club,2,0.01,Centrales x2,23
+Karate Club,2,0.01,Centrales x3,21
+Karate Club,2,0.01,Perifericos x3,27
+Karate Club,3,0.001,Original,55
+Karate Club,3,0.001,Centrales x2,40
+Karate Club,3,0.001,Centrales x3,36
+Karate Club,3,0.001,Perifericos x3,92
+Karate Club,3,0.01,Original,34
+Karate Club,3,0.01,Centrales x2,26
+Karate Club,3,0.01,Centrales x3,23
+Karate Club,3,0.01,Perifericos x3,57
+Karate Club,4,0.001,Original,48
+Karate Club,4,0.001,Centrales x2,35
+Karate Club,4,0.001,Centrales x3,32
+Karate Club,4,0.001,Perifericos x3,84
+Karate Club,4,0.01,Original,27
+Karate Club,4,0.01,Centrales x2,21
+Karate Club,4,0.01,Centrales x3,19
+Karate Club,4,0.01,Perifericos x3,49
+Karate Club,5,0.001,Original,34
+Karate Club,5,0.001,Centrales x2,23
+Karate Club,5,0.001,Centrales x3,25
+Karate Club,5,0.001,Perifericos x3,78
+Karate Club,5,0.01,Original,15
+Karate Club,5,0.01,Centrales x2,9
+Karate Club,5,0.01,Centrales x3,12
+Karate Club,5,0.01,Perifericos x3,43
+Karate Club,6,0.001,Original,47
+Karate Club,6,0.001,Centrales x2,36
+Karate Club,6,0.001,Centrales x3,32
+Karate Club,6,0.001,Perifericos x3,86
+Karate Club,6,0.01,Original,26
+Karate Club,6,0.01,Centrales x2,21
+Karate Club,6,0.01,Centrales x3,19
+Karate Club,6,0.01,Perifericos x3,51
+Karate Club,7,0.001,Original,52
+Karate Club,7,0.001,Centrales x2,38
+Karate Club,7,0.001,Centrales x3,34
+Karate Club,7,0.001,Perifericos x3,92
+Karate Club,7,0.01,Original,31
+Karate Club,7,0.01,Centrales x2,23
+Karate Club,7,0.01,Centrales x3,21
+Karate Club,7,0.01,Perifericos x3,57
+Karate Club,8,0.001,Original,45
+Karate Club,8,0.001,Centrales x2,30
+Karate Club,8,0.001,Centrales x3,24
+Karate Club,8,0.001,Perifericos x3,69
+Karate Club,8,0.01,Original,24
+Karate Club,8,0.01,Centrales x2,15
+Karate Club,8,0.01,Centrales x3,11
+Karate Club,8,0.01,Perifericos x3,34
+Karate Club,9,0.001,Original,38
+Karate Club,9,0.001,Centrales x2,27
+Karate Club,9,0.001,Centrales x3,23
+Karate Club,9,0.001,Perifericos x3,79
+Karate Club,9,0.01,Original,17
+Karate Club,9,0.01,Centrales x2,13
+Karate Club,9,0.01,Centrales x3,11
+Karate Club,9,0.01,Perifericos x3,44
+Karate Club,10,0.001,Original,34
+Karate Club,10,0.001,Centrales x2,28
+Karate Club,10,0.001,Centrales x3,29
+Karate Club,10,0.001,Perifericos x3,82
+Karate Club,10,0.01,Original,15
+Karate Club,10,0.01,Centrales x2,12
+Karate Club,10,0.01,Centrales x3,16
+Karate Club,10,0.01,Perifericos x3,47
+Karate Club,11,0.001,Original,51
+Karate Club,11,0.001,Centrales x2,39
+Karate Club,11,0.001,Centrales x3,35
+Karate Club,11,0.001,Perifericos x3,52
+Karate Club,11,0.01,Original,30
+Karate Club,11,0.01,Centrales x2,24
+Karate Club,11,0.01,Centrales x3,22
+Karate Club,11,0.01,Perifericos x3,22
+Karate Club,12,0.001,Original,52
+Karate Club,12,0.001,Centrales x2,35
+Karate Club,12,0.001,Centrales x3,30
+Karate Club,12,0.001,Perifericos x3,72
+Karate Club,12,0.01,Original,31
+Karate Club,12,0.01,Centrales x2,21
+Karate Club,12,0.01,Centrales x3,18
+Karate Club,12,0.01,Perifericos x3,37
+Karate Club,13,0.001,Original,36
+Karate Club,13,0.001,Centrales x2,24
+Karate Club,13,0.001,Centrales x3,27
+Karate Club,13,0.001,Perifericos x3,59
+Karate Club,13,0.01,Original,15
+Karate Club,13,0.01,Centrales x2,9
+Karate Club,13,0.01,Centrales x3,14
+Karate Club,13,0.01,Perifericos x3,25
+Karate Club,14,0.001,Original,39
+Karate Club,14,0.001,Centrales x2,30
+Karate Club,14,0.001,Centrales x3,27
+Karate Club,14,0.001,Perifericos x3,80
+Karate Club,14,0.01,Original,17
+Karate Club,14,0.01,Centrales x2,15
+Karate Club,14,0.01,Centrales x3,14
+Karate Club,14,0.01,Perifericos x3,45
+Karate Club,15,0.001,Original,45
+Karate Club,15,0.001,Centrales x2,35
+Karate Club,15,0.001,Centrales x3,32
+Karate Club,15,0.001,Perifericos x3,53
+Karate Club,15,0.01,Original,24
+Karate Club,15,0.01,Centrales x2,20
+Karate Club,15,0.01,Centrales x3,19
+Karate Club,15,0.01,Perifericos x3,23
+Karate Club,16,0.001,Original,49
+Karate Club,16,0.001,Centrales x2,37
+Karate Club,16,0.001,Centrales x3,33
+Karate Club,16,0.001,Perifericos x3,61
+Karate Club,16,0.01,Original,28
+Karate Club,16,0.01,Centrales x2,22
+Karate Club,16,0.01,Centrales x3,20
+Karate Club,16,0.01,Perifericos x3,27
+Karate Club,17,0.001,Original,27
+Karate Club,17,0.001,Centrales x2,33
+Karate Club,17,0.001,Centrales x3,32
+Karate Club,17,0.001,Perifericos x3,69
+Karate Club,17,0.01,Original,12
+Karate Club,17,0.01,Centrales x2,18
+Karate Club,17,0.01,Centrales x3,19
+Karate Club,17,0.01,Perifericos x3,34
+Karate Club,18,0.001,Original,42
+Karate Club,18,0.001,Centrales x2,22
+Karate Club,18,0.001,Centrales x3,28
+Karate Club,18,0.001,Perifericos x3,68
+Karate Club,18,0.01,Original,21
+Karate Club,18,0.01,Centrales x2,8
+Karate Club,18,0.01,Centrales x3,15
+Karate Club,18,0.01,Perifericos x3,33
+Karate Club,19,0.001,Original,31
+Karate Club,19,0.001,Centrales x2,31
+Karate Club,19,0.001,Centrales x3,30
+Karate Club,19,0.001,Perifericos x3,57
+Karate Club,19,0.01,Original,14
+Karate Club,19,0.01,Centrales x2,16
+Karate Club,19,0.01,Centrales x3,18
+Karate Club,19,0.01,Perifericos x3,23
+Camino,0,0.001,Original,313
+Camino,0,0.001,Centrales x2,253
+Camino,0,0.001,Centrales x3,354
+Camino,0,0.001,Perifericos x3,1062
+Camino,0,0.01,Original,107
+Camino,0,0.01,Centrales x2,152
+Camino,0,0.01,Centrales x3,203
+Camino,0,0.01,Perifericos x3,415
+Camino,1,0.001,Original,637
+Camino,1,0.001,Centrales x2,495
+Camino,1,0.001,Centrales x3,460
+Camino,1,0.001,Perifericos x3,1682
+Camino,1,0.01,Original,376
+Camino,1,0.01,Centrales x2,294
+Camino,1,0.01,Centrales x3,272
+Camino,1,0.01,Perifericos x3,1036
+Camino,2,0.001,Original,590
+Camino,2,0.001,Centrales x2,457
+Camino,2,0.001,Centrales x3,427
+Camino,2,0.001,Perifericos x3,1262
+Camino,2,0.01,Original,329
+Camino,2,0.01,Centrales x2,257
+Camino,2,0.01,Centrales x3,238
+Camino,2,0.01,Perifericos x3,615
+Camino,3,0.001,Original,625
+Camino,3,0.001,Centrales x2,488
+Camino,3,0.001,Centrales x3,464
+Camino,3,0.001,Perifericos x3,1571
+Camino,3,0.01,Original,364
+Camino,3,0.01,Centrales x2,287
+Camino,3,0.01,Centrales x3,274
+Camino,3,0.01,Perifericos x3,924
+Camino,4,0.001,Original,508
+Camino,4,0.001,Centrales x2,364
+Camino,4,0.001,Centrales x3,298
+Camino,4,0.001,Perifericos x3,1271
+Camino,4,0.01,Original,247
+Camino,4,0.01,Centrales x2,166
+Camino,4,0.01,Centrales x3,140
+Camino,4,0.01,Perifericos x3,624
+Camino,5,0.001,Original,591
+Camino,5,0.001,Centrales x2,440
+Camino,5,0.001,Centrales x3,397
+Camino,5,0.001,Perifericos x3,1614
+Camino,5,0.01,Original,330
+Camino,5,0.01,Centrales x2,240
+Camino,5,0.01,Centrales x3,210
+Camino,5,0.01,Perifericos x3,967
+Camino,6,0.001,Original,227
+Camino,6,0.001,Centrales x2,329
+Camino,6,0.001,Centrales x3,376
+Camino,6,0.001,Perifericos x3,1159
+Camino,6,0.01,Original,47
+Camino,6,0.01,Centrales x2,146
+Camino,6,0.01,Centrales x3,197
+Camino,6,0.01,Perifericos x3,513
+Camino,7,0.001,Original,523
+Camino,7,0.001,Centrales x2,435
+Camino,7,0.001,Centrales x3,426
+Camino,7,0.001,Perifericos x3,909
+Camino,7,0.01,Original,262
+Camino,7,0.01,Centrales x2,234
+Camino,7,0.01,Centrales x3,233
+Camino,7,0.01,Perifericos x3,273
+Camino,8,0.001,Original,552
+Camino,8,0.001,Centrales x2,376
+Camino,8,0.001,Centrales x3,309
+Camino,8,0.001,Perifericos x3,1383
+Camino,8,0.01,Original,291
+Camino,8,0.01,Centrales x2,183
+Camino,8,0.01,Centrales x3,191
+Camino,8,0.01,Perifericos x3,737
+Camino,9,0.001,Original,555
+Camino,9,0.001,Centrales x2,339
+Camino,9,0.001,Centrales x3,322
+Camino,9,0.001,Perifericos x3,532
+Camino,9,0.01,Original,294
+Camino,9,0.01,Centrales x2,163
+Camino,9,0.01,Centrales x3,183
+Camino,9,0.01,Perifericos x3,123
+Camino,10,0.001,Original,528
+Camino,10,0.001,Centrales x2,374
+Camino,10,0.001,Centrales x3,301
+Camino,10,0.001,Perifericos x3,1367
+Camino,10,0.01,Original,267
+Camino,10,0.01,Centrales x2,179
+Camino,10,0.01,Centrales x3,179
+Camino,10,0.01,Perifericos x3,721
+Camino,11,0.001,Original,629
+Camino,11,0.001,Centrales x2,477
+Camino,11,0.001,Centrales x3,431
+Camino,11,0.001,Perifericos x3,1565
+Camino,11,0.01,Original,368
+Camino,11,0.01,Centrales x2,277
+Camino,11,0.01,Centrales x3,247
+Camino,11,0.01,Perifericos x3,918
+Camino,12,0.001,Original,269
+Camino,12,0.001,Centrales x2,242
+Camino,12,0.001,Centrales x3,331
+Camino,12,0.001,Perifericos x3,1525
+Camino,12,0.01,Original,43
+Camino,12,0.01,Centrales x2,114
+Camino,12,0.01,Centrales x3,169
+Camino,12,0.01,Perifericos x3,879
+Camino,13,0.001,Original,562
+Camino,13,0.001,Centrales x2,457
+Camino,13,0.001,Centrales x3,447
+Camino,13,0.001,Perifericos x3,1608
+Camino,13,0.01,Original,301
+Camino,13,0.01,Centrales x2,256
+Camino,13,0.01,Centrales x3,256
+Camino,13,0.01,Perifericos x3,961
+Camino,14,0.001,Original,562
+Camino,14,0.001,Centrales x2,420
+Camino,14,0.001,Centrales x3,385
+Camino,14,0.001,Perifericos x3,1370
+Camino,14,0.01,Original,301
+Camino,14,0.01,Centrales x2,220
+Camino,14,0.01,Centrales x3,200
+Camino,14,0.01,Perifericos x3,723
+Camino,15,0.001,Original,533
+Camino,15,0.001,Centrales x2,347
+Camino,15,0.001,Centrales x3,299
+Camino,15,0.001,Perifericos x3,979
+Camino,15,0.01,Original,272
+Camino,15,0.01,Centrales x2,162
+Camino,15,0.01,Centrales x3,178
+Camino,15,0.01,Perifericos x3,334
+Camino,16,0.001,Original,573
+Camino,16,0.001,Centrales x2,450
+Camino,16,0.001,Centrales x3,428
+Camino,16,0.001,Perifericos x3,387
+Camino,16,0.01,Original,312
+Camino,16,0.01,Centrales x2,250
+Camino,16,0.01,Centrales x3,240
+Camino,16,0.01,Perifericos x3,147
+Camino,17,0.001,Original,372
+Camino,17,0.001,Centrales x2,298
+Camino,17,0.001,Centrales x3,242
+Camino,17,0.001,Perifericos x3,1460
+Camino,17,0.01,Original,111
+Camino,17,0.01,Centrales x2,102
+Camino,17,0.01,Centrales x3,118
+Camino,17,0.01,Perifericos x3,813
+Camino,18,0.001,Original,589
+Camino,18,0.001,Centrales x2,470
+Camino,18,0.001,Centrales x3,461
+Camino,18,0.001,Perifericos x3,1328
+Camino,18,0.01,Original,328
+Camino,18,0.01,Centrales x2,269
+Camino,18,0.01,Centrales x3,269
+Camino,18,0.01,Perifericos x3,682
+Camino,19,0.001,Original,559
+Camino,19,0.001,Centrales x2,423
+Camino,19,0.001,Centrales x3,365
+Camino,19,0.001,Perifericos x3,1314
+Camino,19,0.01,Original,298
+Camino,19,0.01,Centrales x2,224
+Camino,19,0.01,Centrales x3,192
+Camino,19,0.01,Perifericos x3,668
+Dos comunidades,0,0.001,Original,257
+Dos comunidades,0,0.001,Centrales x2,95
+Dos comunidades,0,0.001,Centrales x3,57
+Dos comunidades,0,0.001,Perifericos x3,377
+Dos comunidades,0,0.01,Original,121
+Dos comunidades,0,0.01,Centrales x2,46
+Dos comunidades,0,0.01,Centrales x3,28
+Dos comunidades,0,0.01,Perifericos x3,186
+Dos comunidades,1,0.001,Original,274
+Dos comunidades,1,0.001,Centrales x2,80
+Dos comunidades,1,0.001,Centrales x3,9
+Dos comunidades,1,0.001,Perifericos x3,423
+Dos comunidades,1,0.01,Original,138
+Dos comunidades,1,0.01,Centrales x2,31
+Dos comunidades,1,0.01,Centrales x3,3
+Dos comunidades,1,0.01,Perifericos x3,233
+Dos comunidades,2,0.001,Original,282
+Dos comunidades,2,0.001,Centrales x2,102
+Dos comunidades,2,0.001,Centrales x3,61
+Dos comunidades,2,0.001,Perifericos x3,393
+Dos comunidades,2,0.01,Original,146
+Dos comunidades,2,0.01,Centrales x2,53
+Dos comunidades,2,0.01,Centrales x3,32
+Dos comunidades,2,0.01,Perifericos x3,202
+Dos comunidades,3,0.001,Original,309
+Dos comunidades,3,0.001,Centrales x2,115
+Dos comunidades,3,0.001,Centrales x3,70
+Dos comunidades,3,0.001,Perifericos x3,395
+Dos comunidades,3,0.01,Original,173
+Dos comunidades,3,0.01,Centrales x2,66
+Dos comunidades,3,0.01,Centrales x3,41
+Dos comunidades,3,0.01,Perifericos x3,205
+Dos comunidades,4,0.001,Original,255
+Dos comunidades,4,0.001,Centrales x2,90
+Dos comunidades,4,0.001,Centrales x3,53
+Dos comunidades,4,0.001,Perifericos x3,382
+Dos comunidades,4,0.01,Original,119
+Dos comunidades,4,0.01,Centrales x2,41
+Dos comunidades,4,0.01,Centrales x3,24
+Dos comunidades,4,0.01,Perifericos x3,191
+Dos comunidades,5,0.001,Original,291
+Dos comunidades,5,0.001,Centrales x2,92
+Dos comunidades,5,0.001,Centrales x3,45
+Dos comunidades,5,0.001,Perifericos x3,380
+Dos comunidades,5,0.01,Original,155
+Dos comunidades,5,0.01,Centrales x2,43
+Dos comunidades,5,0.01,Centrales x3,15
+Dos comunidades,5,0.01,Perifericos x3,190
+Dos comunidades,6,0.001,Original,3
+Dos comunidades,6,0.001,Centrales x2,57
+Dos comunidades,6,0.001,Centrales x3,44
+Dos comunidades,6,0.001,Perifericos x3,327
+Dos comunidades,6,0.01,Original,2
+Dos comunidades,6,0.01,Centrales x2,8
+Dos comunidades,6,0.01,Centrales x3,15
+Dos comunidades,6,0.01,Perifericos x3,136
+Dos comunidades,7,0.001,Original,77
+Dos comunidades,7,0.001,Centrales x2,67
+Dos comunidades,7,0.001,Centrales x3,47
+Dos comunidades,7,0.001,Perifericos x3,269
+Dos comunidades,7,0.01,Original,2
+Dos comunidades,7,0.01,Centrales x2,18
+Dos comunidades,7,0.01,Centrales x3,18
+Dos comunidades,7,0.01,Perifericos x3,79
+Dos comunidades,8,0.001,Original,264
+Dos comunidades,8,0.001,Centrales x2,95
+Dos comunidades,8,0.001,Centrales x3,57
+Dos comunidades,8,0.001,Perifericos x3,421
+Dos comunidades,8,0.01,Original,128
+Dos comunidades,8,0.01,Centrales x2,46
+Dos comunidades,8,0.01,Centrales x3,28
+Dos comunidades,8,0.01,Perifericos x3,230
+Dos comunidades,9,0.001,Original,285
+Dos comunidades,9,0.001,Centrales x2,105
+Dos comunidades,9,0.001,Centrales x3,64
+Dos comunidades,9,0.001,Perifericos x3,373
+Dos comunidades,9,0.01,Original,149
+Dos comunidades,9,0.01,Centrales x2,56
+Dos comunidades,9,0.01,Centrales x3,35
+Dos comunidades,9,0.01,Perifericos x3,182
+Dos comunidades,10,0.001,Original,233
+Dos comunidades,10,0.001,Centrales x2,44
+Dos comunidades,10,0.001,Centrales x3,39
+Dos comunidades,10,0.001,Perifericos x3,396
+Dos comunidades,10,0.01,Original,97
+Dos comunidades,10,0.01,Centrales x2,2
+Dos comunidades,10,0.01,Centrales x3,10
+Dos comunidades,10,0.01,Perifericos x3,205
+Dos comunidades,11,0.001,Original,285
+Dos comunidades,11,0.001,Centrales x2,103
+Dos comunidades,11,0.001,Centrales x3,62
+Dos comunidades,11,0.001,Perifericos x3,407
+Dos comunidades,11,0.01,Original,149
+Dos comunidades,11,0.01,Centrales x2,54
+Dos comunidades,11,0.01,Centrales x3,33
+Dos comunidades,11,0.01,Perifericos x3,216
+Dos comunidades,12,0.001,Original,274
+Dos comunidades,12,0.001,Centrales x2,106
+Dos comunidades,12,0.001,Centrales x3,66
+Dos comunidades,12,0.001,Perifericos x3,374
+Dos comunidades,12,0.01,Original,137
+Dos comunidades,12,0.01,Centrales x2,57
+Dos comunidades,12,0.01,Centrales x3,37
+Dos comunidades,12,0.01,Perifericos x3,184
+Dos comunidades,13,0.001,Original,297
+Dos comunidades,13,0.001,Centrales x2,115
+Dos comunidades,13,0.001,Centrales x3,71
+Dos comunidades,13,0.001,Perifericos x3,418
+Dos comunidades,13,0.01,Original,161
+Dos comunidades,13,0.01,Centrales x2,66
+Dos comunidades,13,0.01,Centrales x3,42
+Dos comunidades,13,0.01,Perifericos x3,227
+Dos comunidades,14,0.001,Original,286
+Dos comunidades,14,0.001,Centrales x2,103
+Dos comunidades,14,0.001,Centrales x3,61
+Dos comunidades,14,0.001,Perifericos x3,398
+Dos comunidades,14,0.01,Original,150
+Dos comunidades,14,0.01,Centrales x2,54
+Dos comunidades,14,0.01,Centrales x3,32
+Dos comunidades,14,0.01,Perifericos x3,208
+Dos comunidades,15,0.001,Original,276
+Dos comunidades,15,0.001,Centrales x2,92
+Dos comunidades,15,0.001,Centrales x3,51
+Dos comunidades,15,0.001,Perifericos x3,414
+Dos comunidades,15,0.01,Original,140
+Dos comunidades,15,0.01,Centrales x2,43
+Dos comunidades,15,0.01,Centrales x3,22
+Dos comunidades,15,0.01,Perifericos x3,224
+Dos comunidades,16,0.001,Original,240
+Dos comunidades,16,0.001,Centrales x2,4
+Dos comunidades,16,0.001,Centrales x3,49
+Dos comunidades,16,0.001,Perifericos x3,399
+Dos comunidades,16,0.01,Original,104
+Dos comunidades,16,0.01,Centrales x2,3
+Dos comunidades,16,0.01,Centrales x3,20
+Dos comunidades,16,0.01,Perifericos x3,208
+Dos comunidades,17,0.001,Original,170
+Dos comunidades,17,0.001,Centrales x2,79
+Dos comunidades,17,0.001,Centrales x3,53
+Dos comunidades,17,0.001,Perifericos x3,175
+Dos comunidades,17,0.01,Original,34
+Dos comunidades,17,0.01,Centrales x2,30
+Dos comunidades,17,0.01,Centrales x3,23
+Dos comunidades,17,0.01,Perifericos x3,2
+Dos comunidades,18,0.001,Original,303
+Dos comunidades,18,0.001,Centrales x2,111
+Dos comunidades,18,0.001,Centrales x3,66
+Dos comunidades,18,0.001,Perifericos x3,444
+Dos comunidades,18,0.01,Original,167
+Dos comunidades,18,0.01,Centrales x2,62
+Dos comunidades,18,0.01,Centrales x3,37
+Dos comunidades,18,0.01,Perifericos x3,254
+Dos comunidades,19,0.001,Original,268
+Dos comunidades,19,0.001,Centrales x2,99
+Dos comunidades,19,0.001,Centrales x3,61
+Dos comunidades,19,0.001,Perifericos x3,406
+Dos comunidades,19,0.01,Original,132
+Dos comunidades,19,0.01,Centrales x2,50
+Dos comunidades,19,0.01,Centrales x3,32
+Dos comunidades,19,0.01,Perifericos x3,215

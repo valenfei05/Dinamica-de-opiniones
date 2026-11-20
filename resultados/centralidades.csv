@@ -1,0 +1,75 @@
+red,nodo,centralidad_vector_propio,central,periferico
+Karate Club,0,0.35549144,True,False
+Karate Club,1,0.26595992,False,False
+Karate Club,2,0.3171925,True,False
+Karate Club,3,0.21117972,False,False
+Karate Club,4,0.07596882,False,False
+Karate Club,5,0.07948305,False,False
+Karate Club,6,0.07948305,False,False
+Karate Club,7,0.17095975,False,False
+Karate Club,8,0.22740391,False,False
+Karate Club,9,0.10267425,False,False
+Karate Club,10,0.07596882,False,False
+Karate Club,11,0.0528557,False,True
+Karate Club,12,0.08425463,False,False
+Karate Club,13,0.22647272,False,False
+Karate Club,14,0.10140326,False,False
+Karate Club,15,0.10140326,False,False
+Karate Club,16,0.02363563,False,True
+Karate Club,17,0.09239954,False,False
+Karate Club,18,0.10140326,False,False
+Karate Club,19,0.14791251,False,False
+Karate Club,20,0.10140326,False,False
+Karate Club,21,0.09239954,False,False
+Karate Club,22,0.10140326,False,False
+Karate Club,23,0.15011857,False,False
+Karate Club,24,0.05705244,False,True
+Karate Club,25,0.05920647,False,False
+Karate Club,26,0.07557941,False,False
+Karate Club,27,0.13347715,False,False
+Karate Club,28,0.13107782,False,False
+Karate Club,29,0.13496082,False,False
+Karate Club,30,0.1747583,False,False
+Karate Club,31,0.19103384,False,False
+Karate Club,32,0.30864422,False,False
+Karate Club,33,0.37336347,True,False
+Camino,0,0.04599544,False,True
+Camino,1,0.09096342,False,True
+Camino,2,0.13389943,False,False
+Camino,3,0.17384434,False,False
+Camino,4,0.20990586,False,False
+Camino,5,0.24127843,False,False
+Camino,6,0.26726124,False,False
+Camino,7,0.28727388,False,False
+Camino,8,0.30086929,True,False
+Camino,9,0.30774377,True,False
+Camino,10,0.30774377,True,False
+Camino,11,0.30086929,False,False
+Camino,12,0.28727388,False,False
+Camino,13,0.26726124,False,False
+Camino,14,0.24127843,False,False
+Camino,15,0.20990586,False,False
+Camino,16,0.17384434,False,False
+Camino,17,0.13389943,False,False
+Camino,18,0.09096342,False,False
+Camino,19,0.04599544,False,True
+Dos comunidades,0,0.22106162,True,False
+Dos comunidades,1,0.22106162,False,True
+Dos comunidades,2,0.22106162,False,True
+Dos comunidades,3,0.22106162,False,True
+Dos comunidades,4,0.22106162,False,False
+Dos comunidades,5,0.22106162,False,False
+Dos comunidades,6,0.22106162,False,False
+Dos comunidades,7,0.22106162,False,False
+Dos comunidades,8,0.22106162,False,False
+Dos comunidades,9,0.24532804,True,False
+Dos comunidades,10,0.24532804,True,False
+Dos comunidades,11,0.22106162,False,False
+Dos comunidades,12,0.22106162,False,False
+Dos comunidades,13,0.22106162,False,False
+Dos comunidades,14,0.22106162,False,False
+Dos comunidades,15,0.22106162,False,False
+Dos comunidades,16,0.22106162,False,False
+Dos comunidades,17,0.22106162,False,False
+Dos comunidades,18,0.22106162,False,False
+Dos comunidades,19,0.22106162,False,False

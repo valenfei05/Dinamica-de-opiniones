@@ -1,0 +1,29 @@
+configuracion,escenario,consensos,mejora_respecto_original_de_la_configuracion,empeora_respecto_original_de_la_configuracion
+Puente bidireccional,Original,20,0,0
+Puente bidireccional,Centrales x2,20,19,1
+Puente bidireccional,Centrales x3,20,19,1
+Puente bidireccional,Perifericos x3,20,0,20
+Sin puente,Original,0,0,0
+Sin puente,Centrales x2,0,0,0
+Sin puente,Centrales x3,0,0,0
+Sin puente,Perifericos x3,0,0,0
+Puente 9 a 10,Original,20,0,0
+Puente 9 a 10,Centrales x2,20,20,0
+Puente 9 a 10,Centrales x3,20,20,0
+Puente 9 a 10,Perifericos x3,20,7,13
+Retorno central 10 a 9,Original,20,0,0
+Retorno central 10 a 9,Centrales x2,20,19,1
+Retorno central 10 a 9,Centrales x3,20,19,1
+Retorno central 10 a 9,Perifericos x3,20,0,20
+Retorno no puente 11 a 1,Original,20,0,0
+Retorno no puente 11 a 1,Centrales x2,20,19,1
+Retorno no puente 11 a 1,Centrales x3,20,19,1
+Retorno no puente 11 a 1,Perifericos x3,20,14,5
+Avance central 9 a 11,Original,20,0,0
+Avance central 9 a 11,Centrales x2,20,20,0
+Avance central 9 a 11,Centrales x3,20,20,0
+Avance central 9 a 11,Perifericos x3,20,6,13
+Avance no puente 1 a 11,Original,20,0,0
+Avance no puente 1 a 11,Centrales x2,20,19,1
+Avance no puente 1 a 11,Centrales x3,20,19,1
+Avance no puente 1 a 11,Perifericos x3,20,18,2

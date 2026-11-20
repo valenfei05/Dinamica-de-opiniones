@@ -1,0 +1,29 @@
+configuracion,escenario,consensos,opinion_consenso_promedio,diferencia_medias_comunidades_promedio,brecha_final_promedio
+Puente bidireccional,Original,20,0.519342,0.000957,0.000983
+Puente bidireccional,Centrales x2,20,0.523611,0.000946,0.000971
+Puente bidireccional,Centrales x3,20,0.527233,0.000929,0.000961
+Puente bidireccional,Perifericos x3,20,0.504481,0.000980,0.000994
+Sin puente,Original,0,,0.092828,0.092828
+Sin puente,Centrales x2,0,,0.088987,0.088987
+Sin puente,Centrales x3,0,,0.096578,0.096578
+Sin puente,Perifericos x3,0,,0.111170,0.111170
+Puente 9 a 10,Original,20,0.511707,0.000987,0.000996
+Puente 9 a 10,Centrales x2,20,0.522916,0.000972,0.000987
+Puente 9 a 10,Centrales x3,20,0.530961,0.000957,0.000977
+Puente 9 a 10,Perifericos x3,20,0.495635,0.000987,0.000996
+Retorno central 10 a 9,Original,20,0.519342,0.000957,0.000983
+Retorno central 10 a 9,Centrales x2,20,0.523611,0.000946,0.000971
+Retorno central 10 a 9,Centrales x3,20,0.527233,0.000929,0.000961
+Retorno central 10 a 9,Perifericos x3,20,0.504481,0.000980,0.000994
+Retorno no puente 11 a 1,Original,20,0.519125,0.000971,0.000989
+Retorno no puente 11 a 1,Centrales x2,20,0.522951,0.000960,0.000983
+Retorno no puente 11 a 1,Centrales x3,20,0.529958,0.000951,0.000978
+Retorno no puente 11 a 1,Perifericos x3,20,0.512562,0.000974,0.000989
+Avance central 9 a 11,Original,20,0.511707,0.000973,0.000991
+Avance central 9 a 11,Centrales x2,20,0.522920,0.000951,0.000981
+Avance central 9 a 11,Centrales x3,20,0.530962,0.000925,0.000964
+Avance central 9 a 11,Perifericos x3,20,0.495633,0.000974,0.000992
+Avance no puente 1 a 11,Original,20,0.511707,0.000972,0.000990
+Avance no puente 1 a 11,Centrales x2,20,0.522920,0.000955,0.000979
+Avance no puente 1 a 11,Centrales x3,20,0.530965,0.000942,0.000969
+Avance no puente 1 a 11,Perifericos x3,20,0.495627,0.000951,0.000983

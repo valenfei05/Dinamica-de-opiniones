@@ -1,0 +1,25 @@
+red,tolerancia,escenario,casos,promedio_iteraciones,desviacion_estandar,mejora_respecto_original,empeora_respecto_original
+Karate Club,0.001,Original,20,43.25,7.680332024072918,0,0
+Karate Club,0.001,Centrales x2,20,31.8,5.697367813297645,18,1
+Karate Club,0.001,Centrales x3,20,29.85,3.785168424258028,19,1
+Karate Club,0.001,Perifericos x3,20,72.6,13.354400023962139,1,19
+Karate Club,0.01,Original,20,22.95,6.629291063152983,0,0
+Karate Club,0.01,Centrales x2,20,17.35,5.284647575761321,18,2
+Karate Club,0.01,Centrales x3,20,17.0,3.714835124201342,17,3
+Karate Club,0.01,Perifericos x3,20,38.85,11.49032201463475,4,16
+Camino,0.001,Original,20,514.85,117.23108589448448,0,0
+Camino,0.001,Centrales x2,20,396.7,74.57486171626468,19,1
+Camino,0.001,Centrales x3,20,376.15,64.82536154931957,17,3
+Camino,0.001,Perifericos x3,20,1267.4,340.1031314175157,2,18
+Camino,0.01,Original,20,262.4,99.54064496475799,0,0
+Camino,0.01,Centrales x2,20,208.75,57.05249775426138,17,3
+Camino,0.01,Centrales x3,20,209.45,42.35265635116645,16,4
+Camino,0.01,Perifericos x3,20,653.65,268.30528787185693,2,18
+Dos comunidades,0.001,Original,20,246.45,75.77827854999082,0,0
+Dos comunidades,0.001,Centrales x2,20,87.7,26.49358412899244,19,1
+Dos comunidades,0.001,Centrales x3,20,54.3,13.557654664432192,19,1
+Dos comunidades,0.001,Perifericos x3,20,378.55,59.2355256581724,0,20
+Dos comunidades,0.01,Original,20,120.2,49.21036476190763,0,0
+Dos comunidades,0.01,Centrales x2,20,41.45,19.48454515763712,18,2
+Dos comunidades,0.01,Centrales x3,20,26.35,10.301820227513195,18,2
+Dos comunidades,0.01,Perifericos x3,20,188.85,56.251466647546174,1,19

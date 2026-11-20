@@ -1,0 +1,29 @@
+configuracion,escenario,consensos,casos,promedio_iteraciones,desviacion_estandar,segundo_valor_modulo,multiplicidad_valor_propio_uno,cambio_porcentual_vs_referencia
+Puente bidireccional,Original,20,20,246.45000,75.77828,0.98321,1,0.00000
+Puente bidireccional,Centrales x2,20,20,87.70000,26.49358,0.95409,1,0.00000
+Puente bidireccional,Centrales x3,20,20,54.30000,13.55765,0.92397,1,0.00000
+Puente bidireccional,Perifericos x3,20,20,378.55000,59.23553,0.98799,1,0.00000
+Sin puente,Original,0,20,,,1.00000,2,
+Sin puente,Centrales x2,0,20,,,1.00000,2,
+Sin puente,Centrales x3,0,20,,,1.00000,2,
+Sin puente,Perifericos x3,0,20,,,1.00000,2,
+Puente 9 a 10,Original,20,20,467.30000,107.97180,0.99091,1,89.61250
+Puente 9 a 10,Centrales x2,20,20,150.05000,31.67566,0.97203,1,71.09464
+Puente 9 a 10,Centrales x3,20,20,85.35000,16.18417,0.95000,1,57.18232
+Puente 9 a 10,Perifericos x3,20,20,500.20000,79.77443,0.99091,1,32.13578
+Retorno central 10 a 9,Original,20,20,246.45000,75.77828,0.98321,1,0.00000
+Retorno central 10 a 9,Centrales x2,20,20,87.70000,26.49358,0.95409,1,0.00000
+Retorno central 10 a 9,Centrales x3,20,20,54.30000,13.55765,0.92397,1,0.00000
+Retorno central 10 a 9,Perifericos x3,20,20,378.55000,59.23553,0.98799,1,0.00000
+Retorno no puente 11 a 1,Original,20,20,231.30000,54.10000,0.98165,1,-6.14729
+Retorno no puente 11 a 1,Centrales x2,20,20,121.25000,24.19272,0.96524,1,38.25542
+Retorno no puente 11 a 1,Centrales x3,20,20,76.95000,14.95485,0.94472,1,41.71271
+Retorno no puente 11 a 1,Perifericos x3,20,20,222.20000,39.23340,0.97967,1,-41.30234
+Avance central 9 a 11,Original,20,20,236.35000,48.00237,0.98182,1,-4.09819
+Avance central 9 a 11,Centrales x2,20,20,99.75000,23.58151,0.95804,1,13.74002
+Avance central 9 a 11,Centrales x3,20,20,62.65000,16.21504,0.93333,1,15.37753
+Avance central 9 a 11,Perifericos x3,20,20,248.40000,46.44287,0.98182,1,-34.38119
+Avance no puente 1 a 11,Original,20,20,232.55000,56.71197,0.98182,1,-5.64009
+Avance no puente 1 a 11,Centrales x2,20,20,117.70000,25.69455,0.96445,1,34.20753
+Avance no puente 1 a 11,Centrales x3,20,20,76.20000,13.25745,0.94359,1,40.33149
+Avance no puente 1 a 11,Perifericos x3,20,20,137.80000,32.02280,0.96783,1,-63.59794

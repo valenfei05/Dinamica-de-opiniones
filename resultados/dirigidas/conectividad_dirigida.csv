@@ -1,0 +1,8 @@
+configuracion,nodos,arcos,fuertemente_conexa,debilmente_conexa,componentes_fuertes,componentes_fuente
+Puente bidireccional,20,182,True,True,1,1
+Sin puente,20,180,False,False,2,2
+Puente 9 a 10,20,181,False,True,2,1
+Retorno central 10 a 9,20,182,True,True,1,1
+Retorno no puente 11 a 1,20,182,True,True,1,1
+Avance central 9 a 11,20,182,False,True,2,1
+Avance no puente 1 a 11,20,182,False,True,2,1

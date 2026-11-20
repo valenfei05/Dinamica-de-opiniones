@@ -1,0 +1,13 @@
+Red,Escenario,Promedio,Desviacion,Mejoran,Empeoran
+Karate Club,Original,43.2500,7.6803,0,0
+Karate Club,Centrales x2,31.8000,5.6974,18,1
+Karate Club,Centrales x3,29.8500,3.7852,19,1
+Karate Club,Perifericos x3,72.6000,13.3544,1,19
+Camino,Original,514.8500,117.2311,0,0
+Camino,Centrales x2,396.7000,74.5749,19,1
+Camino,Centrales x3,376.1500,64.8254,17,3
+Camino,Perifericos x3,1267.4000,340.1031,2,18
+Dos comunidades,Original,246.4500,75.7783,0,0
+Dos comunidades,Centrales x2,87.7000,26.4936,19,1
+Dos comunidades,Centrales x3,54.3000,13.5577,19,1
+Dos comunidades,Perifericos x3,378.5500,59.2355,0,20
